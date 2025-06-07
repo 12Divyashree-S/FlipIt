@@ -8,5 +8,6 @@ A fun desktop memory game using Java Swing.
  🚀 How to Run
 
 ```bash
+cd src
 javac -encoding UTF-8 game/MemoryGame.java
 java game.MemoryGame
