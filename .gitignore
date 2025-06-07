@@ -1,0 +1,9 @@
+# Ignore compiled class files
+*.class
+
+# VS Code folder
+.vscode/
+
+# OS junk files
+.DS_Store
+Thumbs.db
